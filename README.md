@@ -105,6 +105,6 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ---
 
-✨ Developed with passion by **\[Ekta Mishra]\** 
+✨ Developed with passion by **Ekta Mishra** 
 
-Made with love :)
+🌈 Made with love :)
