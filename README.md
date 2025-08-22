@@ -105,8 +105,6 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ---
 
-✨ Developed with passion by **\[Your Name]**
+✨ Developed with passion by **\[Ekta Mishra]\** 
 
----
-
-Would you like me to also make a **`README.md` file ready-to-upload** (with proper Markdown formatting) so you can directly put it in your GitHub repo?
+Made with love :)
