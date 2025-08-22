@@ -1,15 +1,112 @@
-Duo-Studio
-This is an animated website I built, inspired by modern design principles and smooth user experiences.
+# Duo Studio – Animated Website
 
-🛠 Tech Stack Used:
-HTML, CSS, JavaScript
+An **animated, modern, and responsive website** inspired by creative studio portfolios. Built with **HTML, CSS, JavaScript, GSAP, and Locomotive Scroll** for smooth animations and a premium interactive experience.
 
-Locomotive Scroll – for smooth scrolling effects
+🌐 **Live Demo**: [View on Netlify](https://duo-studio-netlify-animated.netlify.app/)
 
-GSAP – for creating seamless animations
+---
 
-✨ What I Learned:
-This project helped me understand how animations enhance user interaction on websites. It deepened my knowledge of scroll-based effects and animation libraries, encouraging me to keep learning and growing every day.
+## 📖 Table of Contents
 
-🚀 Stay curious, keep building, and never stop learning!
+* [Overview](#overview)
+* [Features](#features)
+* [Tech Stack](#tech-stack)
+* [Screenshots](#screenshots)
+* [Installation & Setup](#installation--setup)
+* [Deployment (Netlify)](#deployment-netlify)
+* [Folder Structure](#folder-structure)
+* [Contributing](#contributing)
+* [License](#license)
 
+---
+
+## 🔥 Overview
+
+**Duo Studio** is a visually appealing portfolio-style website showcasing smooth **scroll-based animations**, **page transitions**, and **interactive UI elements**. It is designed to highlight **modern web animations** while keeping the layout clean and responsive.
+
+The project demonstrates how to integrate **GSAP** with **Locomotive Scroll** to create buttery-smooth scrolling animations.
+
+---
+
+## ✨ Features
+
+✔️ Smooth scrolling using **Locomotive Scroll**
+✔️ High-performance animations with **GSAP**
+✔️ Fully responsive across devices
+✔️ Minimal and modern UI/UX design
+✔️ Lightweight and fast-loading
+✔️ Hosted and deployed on **Netlify**
+
+---
+
+## 🛠 Tech Stack
+
+* **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+* **Animation Libraries**: [GSAP](https://greensock.com/gsap/), [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/)
+* **Deployment**: [Netlify](https://www.netlify.com/)
+
+---
+
+## ⚡ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/EktaMishra12/Duo-Studio
+```
+
+Open the project in **VS Code** (or your preferred editor).
+
+Run locally by simply opening the `index.html` file in your browser, or use a local server like:
+
+```bash
+# Using VS Code Live Server
+Right-click index.html → Open with Live Server
+```
+
+---
+
+## 📂 Folder Structure
+
+```
+duo-studio/
+│── index.html
+│── about.html
+│── contact.html
+│── style.css
+│── script.js
+│── /assets
+│     ├── images/
+│     ├── fonts/
+│     └── screenshots/
+│── /libs
+│     ├── gsap.min.js
+│     └── locomotive-scroll.min.js
+│── README.md
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you’d like to improve animations, fix bugs, or enhance responsiveness:
+
+1. Fork the repo
+2. Create your feature branch (`git checkout -b feature-name`)
+3. Commit changes (`git commit -m "Added new feature"`)
+4. Push to branch (`git push origin feature-name`)
+5. Create a Pull Request
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** – feel free to use and modify for personal or commercial projects.
+
+---
+
+✨ Developed with passion by **\[Your Name]**
+
+---
+
+Would you like me to also make a **`README.md` file ready-to-upload** (with proper Markdown formatting) so you can directly put it in your GitHub repo?
